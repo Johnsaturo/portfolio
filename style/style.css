@@ -1,0 +1,185 @@
+.body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(71,32,24,0.9864320728291317) 35%, rgba(0,212,255,1) 100%);
+    
+}
+
+#KUPAL{
+    text-align: center;
+    
+    
+    
+    
+    
+}
+
+#KUPAL a{
+    padding-left: 20px;
+    color: aliceblue;
+    
+}
+
+#namit{
+    width: 500px;
+    height: 500px;
+    margin-top: 60px;
+    border-radius: 50px;
+    float: left;
+    
+}
+
+#me{
+    margin-left: 230px;
+    position: relative;
+    font-size: 23px;
+    float: right;
+    top: 200px;
+    right: 200px;
+    
+}
+#picture{
+    margin-left: 180px;
+}
+#picture img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    margin-top: 70px;
+    
+    
+}
+
+#LENG{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+    color: white;
+    
+}
+
+#NAME{
+    color: rgb(235, 241, 247);
+    top: 150px;
+    position: relative;
+    margin-left: 150px;
+    font-size: 50px;
+    
+
+
+
+
+
+}
+
+#text{
+    font-size: 18px;
+    color: rgb(10, 6, 6);
+    float: right;
+    width: 500px;
+    margin-top: 100px;
+    margin-right: 200px;
+
+}
+
+#ble{
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+#new{
+    color: rgb(235, 241, 247);
+    top: 100px;
+    position: relative;
+    font-size: 50px;
+    left: 150px;
+
+
+}
+
+#CONTACT{
+    color: aliceblue;
+    font-size: 60PX;
+    margin-left: 200px;
+    margin-top: 90px;
+    
+
+}
+
+#PROJECT{
+    font-size: 50px;
+    margin-left: 800px;
+    top: -80px;
+    position: relative;
+    color: aliceblue;
+    
+    
+
+}
+
+#do{
+    color: aliceblue;
+    margin-left: 940px;
+    font-size: 30px;
+    
+    bottom: 100px;
+    position: relative;
+    
+}
+
+#WHAT span{
+    
+    color: aliceblue;
+    margin-left: 30px;
+    background-color: rgb(0, 0, 0,0.5);
+    
+}
+#WHAT{
+    margin-left: 900px;
+    position: relative;
+    bottom: 100px;
+
+}
+
+#input{
+    margin-left: 800px;
+}
+#input input{
+    display:block ;
+    border-top:none ;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    
+}
+#input button{
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+}
+
+#footer{
+    background-color: rgb(52, 52, 245 , 0.3);
+    width: auto;
+    height: 100px;
+    margin-top: 500px;
+    
+}
+
+#footer a{
+    color: black;
+    text-decoration: none;
+}
+#tropa img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
